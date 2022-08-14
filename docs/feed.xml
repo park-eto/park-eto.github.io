@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>에토의 공부방</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-08-14T19:51:30+09:00</updated>
+  <updated>2022-08-14T20:06:26+09:00</updated>
   <author>
     <name>seongmin park</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,39 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>First</title>
+    <link href="http://localhost:4000/posts/first/" rel="alternate" type="text/html" title="First" />
+    <published>2022-08-14T00:00:00+09:00</published>
+  
+    <updated>2022-08-14T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/first/</id>
+    <content src="http://localhost:4000/posts/first/" />
+    <author>
+      <name>seongmin park</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      안녕
+
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
