@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>공부방</title>
+  <title>에토의 공부방</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-08-14T19:32:47+09:00</updated>
+  <updated>2022-08-14T19:38:49+09:00</updated>
   <author>
     <name>seongmin park</name>
     <uri>http://localhost:4000/</uri>
